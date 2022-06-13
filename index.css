@@ -9,11 +9,11 @@ main{
 	align-items: center;
 }
 ul{
-	margin-right: 3%;
+	margin-left: -3%;
+	display: flex;
 }
 ul li{
 	list-style: None;
-	float: left;
 	margin-left: 40px;
 }
 div{
