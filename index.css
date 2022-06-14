@@ -2,22 +2,12 @@ body{
 	margin: 0 auto;
 	width: 100%;
 }
+header{
+	height: 100px;
+}
 main{
-	height: 742px;
+	height: 622px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-}
-ul{
-	margin-left: -3%;
-	display: flex;
-}
-ul li{
-	list-style: None;
-	margin-left: 40px;
-}
-div{
-	width: 200px;
-	height: 200px;
-	background-color: black;
 }
